@@ -151,16 +151,6 @@ Envisioning a **thriving, interconnected economy** of meaning and connection, po
 
 ---
 
-## How to Contribute
-
-We welcome all contributions, whether through feedback, collaboration, or development. If you’re interested in joining the effort to build the New Atlantis Project, please check out our **Contributing Guidelines**.
-
-### Issues and Discussions
-
-If you have ideas, questions, or concerns, feel free to open an issue or join the discussion in the **Discussions** section.
-
----
-
 ## License
 
 This project is licensed under the **CC0 License**.
