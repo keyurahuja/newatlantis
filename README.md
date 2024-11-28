@@ -1,6 +1,6 @@
 # The New Atlantis Project
 
-Welcome to the **New Atlantis Project** repository! This project explores the potential of a new global economic framework, driven by creativity, self-actualization, and the free-flowing exchange of AI-generated prompts and curated content. In this guide, we lay out a 9-part framework detailing how we can build a decentralized economy based on **curation**, **NFTs**, **personal growth**, and **community collaboration**.
+Welcome to the **New Atlantis** Project repository! This project explores the potential of a new global economic framework, driven by creativity, self-actualization, and the free-flowing exchange of AI-generated prompts and curated content. In this guide, we lay out a 9-part framework detailing how we can build a decentralized economy based on **curation**, **NFTs**, **personal growth**, and **community collaboration**.
 
 This repository contains a detailed 9-part guide for understanding the vision, implementation, and long-term potential of the **New Atlantis** economy.
 
